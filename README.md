@@ -7,6 +7,16 @@ I am a passionate and dedicated Software Developer and IT Specialist with a stro
 I’m open to work, including unpaid opportunities, to gain more hands-on experience.
 I’m eager to collaborate on projects related to web development, cloud computing, and DevOps.
 I am actively seeking opportunities to contribute to innovative and impactful projects.
+
+Connect with Me:
+🔗 LinkedIn: https://www.linkedin.com/in/saheed-lawal-57932925a/
+
+Open to Work:
+✔ Front-End Developer
+✔ Software Developer
+✔ Cloud DevOps (Entry-Level)
+✔ IT Support & Systems Engineering
+
 🔹 Technical Skills & Interests
 
 Frontend & Backend Development
